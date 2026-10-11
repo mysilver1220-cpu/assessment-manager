@@ -1,0 +1,6 @@
+{
+  "name": "공통국어1 성취도 분포비율 시각화 대시보드",
+  "description": "공통국어1 성취평가제(A~E)와 5등급제(1~5등급)의 등급컷 및 인원 분포를 한눈에 비교하는 이중 원형 파이 차트 분석 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
